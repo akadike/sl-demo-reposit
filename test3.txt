@@ -1,2 +1,7 @@
 This file is used to practice git push
+<<<<<<< HEAD
 Jack and Jill yet to say what they where doing up the hill before rolling down. 
+=======
+Jack and Jill had it coming.
+>>>>>>> e68d47467c820bbe536339ec5e187ab6658c8fcb
+Enough of this Jack.
